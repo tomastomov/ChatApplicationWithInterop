@@ -1,0 +1,17 @@
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\bin\Debug\ChatApplicationWithInterop.exe.config
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\bin\Debug\ChatApplicationWithInterop.exe
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\bin\Debug\ChatApplicationWithInterop.pdb
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\ChatApplicationWithInterop.csprojAssemblyReference.cache
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\MainWindow.g.cs
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\App.g.cs
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\ChatApplicationWithInterop_MarkupCompile.cache
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\ChatApplicationWithInterop_MarkupCompile.lref
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\MainWindow.baml
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\ChatApplicationWithInterop.g.resources
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\ChatApplicationWithInterop.Properties.Resources.resources
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\ChatApplicationWithInterop.csproj.GenerateResource.cache
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\ChatApplicationWithInterop.exe
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\ChatApplicationWithInterop.pdb
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\bin\Debug\Glue42.dll
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\bin\Debug\Glue42.pdb
+C:\Users\nestl\Source\Repos\ChatApplicationWithInterop\ChatApplicationWithInterop\obj\Debug\ChatApplicationWithInterop.csproj.CopyComplete
